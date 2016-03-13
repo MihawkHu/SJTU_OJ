@@ -1,1 +1,1 @@
-Here are codes for sjtu online judge.
+Here are some codes for sjtu online judge.
